@@ -1,0 +1,3 @@
+*-combined.fasta --> bwa + blastn reads combined
+*-combined-unique.fasta --> bwa + blastn reads combined, duplicates removed
+*-parvo-reads.fasta --> bwa + blastn reads combined, duplicates removed, reads removed that do not have highest match against parvo. Those are the files used to make the final consensuses.
