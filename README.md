@@ -20,3 +20,7 @@ The `beast` directory contains the XML files used for the BEAST analyses. BEAST2
 * `drt`: Directory containing the XML files for the date randomization test runs.
     * `strict-const-0-n.xml` - `strict-const-4-n.xml`:  XML file. Strict clock, Coalescent Constant population prior. Dates were randomized within all sequences.
     * `strict-const-10-n.xml` - `strict-const-14-n.xml`:  XML file. Strict clock, Coalescent Constant population prior. Dates were randomized within ancient sequences.
+
+The `reads` directory contains the reads that were used to assemble the consensus sequences.
+
+The `consensus` directory contains the consensus sequences.
